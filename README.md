@@ -1,4 +1,5 @@
 <img width="674" height="432" alt="image" src="https://github.com/user-attachments/assets/7f7b89d9-6712-4460-a92b-d65e96b657eb" />
+<div>
 <response>
 Query: My Samsung S25 's Camera is not working properly , Can i get help to recover my camera? 
 Category: I would categorize the customer query as "Technical". 
@@ -55,3 +56,4 @@ Response: Our working hours are from 9:00 AM to 5:00 PM, Monday to Friday. Unfor
 
 
 </response>
+</div>
